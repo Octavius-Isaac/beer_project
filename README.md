@@ -1,3 +1,5 @@
+CLI API Project for Brewdog Beers.  This program will list all Brewdog Beers & list Brewdog beers according ABV specified by the user. 
+
 # BeerProject
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/beer_project`. To experiment with that code, run `bin/console` for an interactive prompt.
